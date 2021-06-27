@@ -1,5 +1,6 @@
-- Hi, i’m @FKettl
-- I’m currently a computer science student at UFSC - brazil.
+- Me chamo Felipe, tenho 22 anos.
+- Estou no primeiro semestre de ciência da computação na UFSC
+
 
 
 <!---
