@@ -1,5 +1,5 @@
-- Me chamo Felipe, tenho 22 anos.
-- Estou no segundo semestre de ciência da computação na UFSC
+- Me chamo Felipe, tenho 23 anos.
+- Estou no terceiro semestre de ciência da computação na UFSC
 
 
 
