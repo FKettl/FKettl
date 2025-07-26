@@ -1,24 +1,34 @@
-* Me chamo Felipe, tenho 24 anos.
-* Sou graduando de ciência da computação na UFSC 📚 
+# Hi, I'm Felipe Kettl 👋
 
+I'm a Software Developer passionate about building intelligent systems and solving complex problems with data. With a solid foundation in software engineering and hands-on experience in applied AI, I'm currently diving deep into the world of Machine Learning and Data Science.
 
-<div align="center">
-    <a href="https://github.com/FKettl">
-    <img height="250em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=FKettl&theme=dracula">
-    <!-- &theme=dracula /-->
-</div>  
+---
 
-  
-<div style="display: inline_block" align="center"><br>
-    <img align="center" alt="FKettl-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="FKettl-ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center" alt="FKettl-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-    <img align="center" alt="FKettl-C++" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-    <img align="center" alt="FKettl-py" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
+### 🔧 Technologies & Tools
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<!---
-FKettl/FKettl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🌱 I'm currently focusing on:
+- Deepening my knowledge in Machine Learning algorithms and statistical modeling.
+- Applying data analysis techniques to solve real-world problems.
+- Contributing to projects that involve data-driven decision-making.
+
+---
+
+### 📫 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-kettl/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fekettl@gmail.com)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkettl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
